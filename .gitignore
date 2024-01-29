@@ -1,0 +1,7 @@
+/harjoittelu_db
+*.od*
+mock_verkkokauppa.db
+env/
+__pycache__/
+.idea
+asiakirjat
