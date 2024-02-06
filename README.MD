@@ -1,6 +1,8 @@
 Tämä projekti on tehty tietokantojen perusteet kurssilla vapaavalintaisena lisätyönä.  
 Projekti on kopioitu Gitlabista ja sillä ei täällä ole git-historiaa johtuen commitit tehdystä sähköpostista.
 
+Tietokanta tai projekti ei ole liitännässä mihinkään oikeaan verkkokauppaan. 
+
 Projekti käyttää kirjastoa tabulate sen helppouden vuoksi
 
 Jos tietokanta puuttuu, voi ensimmäisellä kerralla ajaa create_db.py tiedoston, joka luo tietokannan.
